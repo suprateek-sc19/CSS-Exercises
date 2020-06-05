@@ -1,5 +1,5 @@
 # CSS-Exercises
-CSS Exercises
+Intermediate CSS Exercises
 
 1. Tic Tac Toe Board
 2. Image Gallery
